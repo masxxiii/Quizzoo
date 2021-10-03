@@ -18,7 +18,7 @@ app developed for everyone.
 
 ## User interface:
 
-Works with **iphones** of different screen sizes.
+Works with **iphones** and **ipads** of different screen sizes.
 
 <p align="center">
   <img src="./gitResources/main.png" alt="iphone" height="600">
