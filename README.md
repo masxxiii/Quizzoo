@@ -24,9 +24,7 @@ Works with **iphones** of different screen sizes.
   <img src="./gitResources/main.png" alt="iphone" height="600">
 </p>
 
----
-
-Check the **score** and track your progress.
+Check the **score** and **track** your progress.
 
 <p align="center">
   <img src="./gitResources/extra.png" alt="ipad" height="600">
