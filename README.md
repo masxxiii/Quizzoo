@@ -3,8 +3,7 @@
 <img src="./gitResources/icon.png" align="right"
      alt="Quizzoo logo by MZ" width="120" height="120">
 
-Quizzoo is a fun quiz app built for iphone and ipad in swift. An exciting
-app developed for everyone.
+Quizzoo is a fun quiz app built for iphone and ipad in swift.
 
 * **Choose** from three options.
 * **Check** your score.
